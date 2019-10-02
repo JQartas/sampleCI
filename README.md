@@ -1,3 +1,2 @@
 # sampleCI
-sampleCI
-Sample CI for Class
+##### Este es el taller de CI (continous integration) de Ingenieria de Software II
